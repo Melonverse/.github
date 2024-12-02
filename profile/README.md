@@ -12,6 +12,9 @@ https://github.com/Melonverse/Experience-Template
 This template is for use whenever you're setting up a standard pop-up.
 ?
 
+---
+
 ## Libraries
 On top of working on standard templates and project structure, we've also been cranking away on in house libraries. You can use these in combination with a template to substantially lower development time and quickly ramp up a prototype!
 
+Libraries can be found in our [Libraries](https://github.com/Melonverse/Libraries) repository. Each library comes with a README and documentation then on top of that, the Libraries Repository itself has a README as well.
